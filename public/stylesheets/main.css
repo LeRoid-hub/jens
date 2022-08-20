@@ -1,0 +1,7 @@
+html, body {
+  color: #0074BC;
+}
+
+article{
+  word-break: break-all;
+}
